@@ -38,7 +38,7 @@ num_days = 252
 
 # data frame for simulation trials
 # dat frame stores series of prices for each simukation
-# one row for each simulation
+# create a data frame for day and column with multiple simulations having the same day
 
 simulation_df = pd.DataFrame()
 
